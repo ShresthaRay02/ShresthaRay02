@@ -18,22 +18,24 @@ Still learning, still growing, and always down for connecting with other like-mi
 ### 🚀 **My Tech Stack:**
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-C-00599C?style=flat&logo=c" alt="C" />
-  <img src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat&logo=cplusplus" alt="C++" />
-  <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java" alt="Java" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python" alt="Python" />
-  <img src="https://img.shields.io/badge/-R-276DC3?style=flat&logo=r" alt="R" />
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react" alt="React" />
-  <img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs" alt="Next JS" />
-  <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwindcss" alt="TailwindCSS" />
-  <img src="https://img.shields.io/badge/-Canva-00C4CC?style=flat&logo=canva" alt="Canva" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js" alt="NodeJS" />
-  <img src="https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express" alt="Express.js" />
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql" alt="MySQL" />
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="Canva" width="40" height="40"/>
 </p>
+
 
 
 ---
