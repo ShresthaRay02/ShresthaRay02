@@ -1,5 +1,5 @@
 <!-- ✨ Animated Tech Banner -->
-<img src="https://i.imgur.com/H6IYF1B.gif" width="100%" alt="tech cute banner" />
+<img src="514f3fccb71047d780be491c435a79e1.gif" width="100%" alt="tech cute banner" />
 
 <h1 align="center">Hey! I’m Shrestha 💫</h1>
 
