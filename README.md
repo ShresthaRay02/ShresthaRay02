@@ -1,9 +1,9 @@
 <!-- ✨ Animated Tech Banner -->
-<img src="514f3fccb71047d780be491c435a79e1.gif" width="100%" alt="tech cute banner" />
+<img src="0700553091f087b04779ef2444f081ad45b24dc2.gif" width="100%" alt="tech cute banner" />
 
-<h1 align="center">Hey! I’m Shrestha 💫</h1>
+<h1 align="left">Hey! I’m Shrestha 💫</h1>
 
-<p align="center">
+<p align="left">
   your friendly neighborhood dev who:
 </p>
 
@@ -13,7 +13,7 @@
   <li>🕳️ fell into the Web3 rabbit hole and is still exploring (send snacks)</li>
 </ul>
 
-<p align="center">Still learning, still growing, and always down to connect with like-minded folks 💌</p>
+<p align="left">Still learning, still growing, and always down to connect with like-minded folks 💌</p>
 
 ---
 
