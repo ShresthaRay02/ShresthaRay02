@@ -19,7 +19,7 @@
 
 ### 💖 Tech Stack
 
-<p align="center">
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" style="margin: 0 16px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" style="margin: 0 16px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" style="margin: 0 16px;" />
@@ -41,8 +41,8 @@
 
 ### 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ShresthaRay02&theme=tokyonight&no-frame=true&column=6&margin-w=5" />
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=ShresthaRay02&theme="rose_pine"&no-frame=true&column=6&margin-w=5" />
 </p>
 
 ---
