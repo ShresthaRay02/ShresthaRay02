@@ -43,7 +43,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shresthaxoxo&theme=tokyonight&no-frame=true&column=6&margin-w=5" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ShresthaRay02&theme=tokyonight&no-frame=true&column=6&margin-w=5" />
 </p>
 
 ---
@@ -51,8 +51,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shresthaxoxo&show_icons=true&theme=radical" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shresthaxoxo&layout=compact&theme=radical" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ShresthaRay02&show_icons=true&theme=radical" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShresthaRay02&layout=compact&theme=radical" height="165" />
 </p>
 
 ---
@@ -60,7 +60,7 @@
 ### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/shresthaxoxo/shresthaxoxo/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/ShresthaRay02/ShresthaRay02/output/github-contribution-grid-snake.svg" />
 </p>
 
 
