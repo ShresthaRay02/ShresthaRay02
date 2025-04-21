@@ -1,77 +1,66 @@
-<!-- Animation Banner -->
+<!-- ✨ Animated Tech Banner -->
+<img src="https://i.imgur.com/H6IYF1B.gif" width="100%" alt="tech cute banner" />
+
+<h1 align="center">Hey! I’m Shrestha 💫</h1>
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/gh-profile-readme-generator/master/animated_header.gif" alt="Tech Animation" width="100%">
+  your friendly neighborhood dev who:
 </p>
 
-## Hey! I’m Shrestha 👋
+<ul>
+  <li>🚀 builds with the MERN stack because why not suffer with purpose</li>
+  <li>🎨 has a thing for clean frontend and making UI that doesn’t scream 2010</li>
+  <li>🕳️ fell into the Web3 rabbit hole and is still exploring (send snacks)</li>
+</ul>
 
-Your friendly neighborhood dev who:
-
-- 🚀 Builds with the **MERN stack** because why not suffer with purpose
-- 🎨 Has a thing for clean **frontend** and making **UI** that doesn’t scream 2010
-- 🕳️ Fell into the **Web3** rabbit hole and is still exploring (send snacks)
-
-Still learning, still growing, and always down for connecting with other like-minded folks. If you’ve got advice, cool projects, or just want to chat, feel free to reach out! 🤙
+<p align="center">Still learning, still growing, and always down to connect with like-minded folks 💌</p>
 
 ---
 
-### 🚀 **My Tech Stack:**
+### 💖 Tech Stack
 
-<!-- Glowy Icon Badges: Cute + Neon-ish + Centered -->
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" style="margin: 15px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" style="margin: 15px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" style="margin: 15px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" style="margin: 15px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" style="margin: 15px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" style="margin: 15px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="R" style="margin: 15px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" style="margin: 15px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express" style="margin: 15px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="NextJS" style="margin: 15px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="NodeJS" style="margin: 15px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" style="margin: 15px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="TailwindCSS" style="margin: 15px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" style="margin: 15px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" style="margin: 15px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="Canva" style="margin: 15px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="R" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="NextJS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="NodeJS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="TailwindCSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="Canva" />
 </p>
 
+---
 
+### 🏆 GitHub Trophies
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shresthaxoxo&theme=tokyonight&no-frame=true&column=6&margin-w=5" />
+</p>
 
 ---
 
-### 💪 **My GitHub Stats:**
+### 📊 GitHub Stats
 
-![Shrestha's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShresthaRay02&show_icons=true&theme=radical)
-
----
-
-### 🏆 **Trophies:**
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=ShresthaRay02&theme=dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shresthaxoxo&show_icons=true&theme=radical" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shresthaxoxo&layout=compact&theme=radical" height="165" />
+</p>
 
 ---
 
-### 🐍 **Contribution Snake Effect:**
+### 🐍 Contribution Snake
 
-![Snake](https://github.com/ShresthaRay02/github-contribution-snake)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shresthaxoxo/shresthaxoxo/output/github-contribution-grid-snake.svg" />
+</p>
 
----
-
-### 📌 **Current Focus:**
-
-- 🔄 Learning **React** and diving deeper into **Next.js** for building performant, scalable web apps.
-- 🕸️ Exploring **Web3** and the world of decentralized applications (still figuring it out, but it’s fun!).
-- 💡 Focusing on improving **UI/UX** design and making interfaces more intuitive and user-friendly.
-
----
-
-### 📬 **Let’s Connect:**
-
-Feel free to reach out if you have advice, want to collaborate, or just want to chat about tech!
-
-- LinkedIn: [[Your LinkedIn](https://www.linkedin.com/in/shrestha-ray-b88180248/)](#)
-- Email: [shrestharay02@gmail.com](#)
 
