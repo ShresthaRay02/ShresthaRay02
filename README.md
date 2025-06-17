@@ -42,9 +42,9 @@
 # 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShresthaRay02&theme=rose_pine&border=false&include_all_commits=false&count_private=false" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ShresthaRay02&theme=rose_pine&include_all_commits=false&count_private=false" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShresthaRay02&theme=rose_pine&layout=compact" height="150"/>
-  <img src="https://streak-stats.demolab.com?user=ShresthaRay02&theme=rose_pine&hide_border=true" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=ShresthaRay02&theme=rose_pine" height="150"/>
 </p>
 
 ---
